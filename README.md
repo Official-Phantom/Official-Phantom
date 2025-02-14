@@ -1,6 +1,5 @@
-<a href="https://jaydendancer.netlify.app/">
-  <img
-    alt="Helping people drive positive change through innovative software solutions"
-    src="https://raw.githubusercontent.com/Official-Phantom/Official-Phantom/main/image.png"
-  />
-</a>
+<div align="center">
+  <p>Helping people drive positive change through innovative software solutions. :)</p>
+  <br>
+  <p>Shoot me a message <a href=mailto:jaydencadedancer@proton.me>here</a>.</p>
+</div>
